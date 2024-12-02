@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deranology
+- 👋 Hi, I’m @Hey.jioke
 - 👀 I’m interested in becoming a fullstack developer
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on lots of project
